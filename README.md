@@ -16,7 +16,7 @@ We focused on the US reviews for video games.
 
 ### Total number of reviews
   * Vine Reviews
-  
+  ![]<img width="434" alt="Screen Shot 2023-02-22 at 01 27 30" src="https://user-images.githubusercontent.com/78386151/220541264-a0b953ce-ecf5-4625-a082-282821e4a984.png">
   * Non-Vine Reviews
   
 ### Total number of 5-star reviews
