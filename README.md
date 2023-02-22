@@ -8,4 +8,4 @@ We focused on the US reviews for video games.
 
 ## Resources
 
-*Data Source:
+* Data Source:
