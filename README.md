@@ -18,16 +18,14 @@ We focused on the US reviews for video games.
   * Vine Reviews
   ![]<img width="434" alt="Screen Shot 2023-02-22 at 01 27 30" src="https://user-images.githubusercontent.com/78386151/220541264-a0b953ce-ecf5-4625-a082-282821e4a984.png">
   * Non-Vine Reviews
+  ![]<img width="448" alt="Screen Shot 2023-02-22 at 01 37 16" src="https://user-images.githubusercontent.com/78386151/220542241-e3163081-e0dd-45d0-b89d-c1d11fa6c2e4.png">
   
 ### Total number of 5-star reviews
   * Vine Reviews
-  
+  ![]<img width="528" alt="Screen Shot 2023-02-22 at 01 38 21" src="https://user-images.githubusercontent.com/78386151/220542449-eb814aed-2528-4223-b557-c48f6bf14514.png">
   * Non-Vine Reviews
-  
- ### Percentage of 5-star reviews
-  * Vine Reviews
-  
-  * Non-Vine Reviews
+  ![]<img width="565" alt="Screen Shot 2023-02-22 at 01 39 02" src="https://user-images.githubusercontent.com/78386151/220542868-8528a481-0629-4f96-a564-3f2575ff78ac.png">
+ 
   
 ## Summary
   
